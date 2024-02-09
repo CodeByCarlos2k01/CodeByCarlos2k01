@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5FFFA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=00FFFF&size=35&center=true&vcenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Carlos+Eduardo;Eu+tenho+22+anos;Sou+Graduando+em+Eng.+de+Computação;Seja+Bem-Vindo!+👋)](https://git.io/typing-svg)
 
@@ -28,4 +28,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CodeByCarlos01}/count.svg" /></p>
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5FFFA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
