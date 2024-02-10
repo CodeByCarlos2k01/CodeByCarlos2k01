@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=00FFFF&size=35&center=true&vcenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Carlos+Eduardo;Eu+tenho+22+anos;Sou+Graduando+em+Eng.+de+Computação;Seja+Bem-Vindo!+👋)](https://git.io/typing-svg)
 
 <div align="center">
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByCarlos01&layout=compact&hide_border=true&title_color=00FFFF&text_color=ff91a4&bg_color=4B0082" />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByCarlos01&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=4B0082" />
 </div>
 
 <div align="center">
