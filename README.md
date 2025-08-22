@@ -13,9 +13,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByCarlos2k01&bg_color=0b0408&color=9e4c9c&line=4c749e&point=8f2864&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CodeByCarlos2k01}/count.svg" /></p>
-<br></div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
