@@ -1,7 +1,7 @@
 <h1 align="center">👋 𝕺𝖑𝖆́, 𝖘𝖊𝖏𝖆 𝖇𝖊𝖒-𝖛𝖎𝖓𝖉𝖔!</h1>
 
 <p align="center">
-  <img width="100%" height="50px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+  <img width="100%" height="100px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 </p>
 
 <p align="center">
