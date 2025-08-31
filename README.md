@@ -1,9 +1,6 @@
-<p align=“center”>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 <pre align="center">
-      ___  _   __                _         _                               _           _         _ 
+   ___  _   __                _         _                               _           _         _ 
   / _ \| | /_/_     ___  ___ (_) __ _  | |__   ___ _ __ ___      __   _(_)_ __   __| | ___   | |
  | | | | |/ _` |   / __|/ _ \| |/ _` | | '_ \ / _ \ '_ ` _ \ ____\ \ / / | '_ \ / _` |/ _ \  | |
  | |_| | | (_| |_  \__ \  __/| | (_| | | |_) |  __/ | | | | |_____\ V /| | | | | (_| | (_) | |_|
