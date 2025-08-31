@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&animation=fadeIn&height=100&section=header"/>
+</p>
+
 <h1 align="center">👋 𝕺𝖑𝖆́, 𝖘𝖊𝖏𝖆 𝖇𝖊𝖒-𝖛𝖎𝖓𝖉𝖔!</h1>
 
 <p align="center">
@@ -15,41 +19,29 @@
 
 <p align="center">
   <img width="41%" height="195px" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByCarlos2k01&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=00000000" />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByCarlos2k01&layout=compact&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByCarlos2k01&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByCarlos2k01&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByCarlos2k01&theme=tokyonight" alt="GitHub Streak" height="195px"/>
-  <br>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByCarlos2k01&bg_color=0b0408&color=9e4c9c&line=4c749e&point=8f2864&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
----
-
-### 🔗 Links
-
 <p align="center">
-  <a href="mailto:carlos.devvv@gmail.com"><img src="https://img.shields.io/badge/Email-carlos.devvv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/carlos-eduh"><img src="https://img.shields.io/badge/LinkedIn-CarlosEduardo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByCarlos2k01&bg_color=00000000&color=00FFFF&line=4c749e&point=8f2864&area=true&hide_border=true" 
+    alt="GitHub Activity Graph" 
+    width="95%"
+  />
 </p>
 
----
-
-### 📌 Projetos Fixados
-
 <p align="center">
-  <a href="https://github.com/CodeByCarlos2k01/app-conversion">
-    <img src="https://img.shields.io/badge/App%20Conversion-Java-blue?style=for-the-badge"/>
+  <a href="mailto:carlos.devvv@gmail.com">
+    <img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" alt="Gmail" width="50" height="50"/>
   </a>
-  <a href="https://github.com/CodeByCarlos2k01/classificador-emails">
-    <img src="https://img.shields.io/badge/Classificador%20de%20Emails-Python-green?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/CodeByCarlos2k01/chat-js">
-    <img src="https://img.shields.io/badge/Chat%20JS-JavaScript-yellow?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/carlos-eduh">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=100&section=footer"/>
 </p>
