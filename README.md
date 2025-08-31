@@ -2,7 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<h1 align="center">👋 Olá, seja bem-vindo!</h1>
+<p align="center">
+  <a href="https://github.com/CodeByCarlos2k01">
+    <img src="https://img.shields.io/badge/👋%20Olá,%20seja%20bem--vindo!-purple?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
