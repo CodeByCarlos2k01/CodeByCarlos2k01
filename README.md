@@ -2,9 +2,7 @@
   <h1>👋 𝕺𝖑𝖆́, 𝖘𝖊𝖏𝖆 𝖇𝖊𝖒-𝖛𝖎𝖓𝖉𝖔!</h1>
 </p>
 
-<p align="center"
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="80%">
-</p>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF de fundo" width="80%" align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
