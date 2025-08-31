@@ -1,6 +1,3 @@
-<!-- Fundo GIF -->
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" />
-
 <pre align="center">
  $$$$$$\  $$\                                                                                   
 $$  __$$\ $$ |                                                                                  
@@ -20,11 +17,12 @@ $$  __$$\ $$  __$$\ $$  _$$  _$$\ $$$$$$\\$$\  $$  |$$ |$$  __$$\ $$  __$$ |$$  
 $$ |  $$ |$$$$$$$$ |$$ / $$ / $$ |\______|\$$\$$  / $$ |$$ |  $$ |$$ /  $$ |$$ /  $$ |      \__|
 $$ |  $$ |$$   ____|$$ | $$ | $$ |         \$$$  /  $$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |          
 $$$$$$$  |\$$$$$$$\ $$ | $$ | $$ |          \$  /   $$ |$$ |  $$ |\$$$$$$$ |\$$$$$$  |      $$\ 
-\_______/  \_______|\__| \__| \__|           \_/    \__|\__|  \__| \_______| \______/       \__|
-                                                                                                
-                                                                                                
-                                                                                                
+\_______/  \_______|\__| \__| \__|           \_/    \__|\__|  \__| \_______| \______/       \__|                                                                                    
 </pre>
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100% height=50%" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
