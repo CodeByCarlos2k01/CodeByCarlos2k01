@@ -1,11 +1,11 @@
 <div style="position: relative; text-align: center; color: white;">
   <!-- GIF de fundo -->
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF de fundo" width="100%">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF de fundo" width="80%">
 
   <!-- Texto sobreposto -->
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
              font-size: 3em; font-weight: bold; text-shadow: 2px 2px 4px #000;">
-    👋 Olá, seja bem-vindo!
+    👋 𝕺𝖑𝖆́, 𝖘𝖊𝖏𝖆 𝖇𝖊𝖒-𝖛𝖎𝖓𝖉𝖔!
   </h1>
 </div>
 
