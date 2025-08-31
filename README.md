@@ -1,38 +1,9 @@
-<div style="position: relative; text-align: center; color: white;">
-  <!-- GIF de fundo -->
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF de fundo" width="80%">
+<p align="left">
+  <h1>👋 𝕺𝖑𝖆́, 𝖘𝖊𝖏𝖆 𝖇𝖊𝖒-𝖛𝖎𝖓𝖉𝖔!</h1>
+</p>
 
-  <!-- Texto sobreposto -->
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-             font-size: 3em; font-weight: bold; text-shadow: 2px 2px 4px #000;">
-    👋 𝕺𝖑𝖆́, 𝖘𝖊𝖏𝖆 𝖇𝖊𝖒-𝖛𝖎𝖓𝖉𝖔!
-  </h1>
-</div>
-
-<pre align="center">
- $$$$$$\  $$\                                                                                   
-$$  __$$\ $$ |                                                                                  
-$$ /  $$ |$$ | $$$$$$\             $$$$$$$\  $$$$$$\  $$\  $$$$$$\                              
-$$ |  $$ |$$ | \____$$\           $$  _____|$$  __$$\ \__| \____$$\                             
-$$ |  $$ |$$ | $$$$$$$ |          \$$$$$$\  $$$$$$$$ |$$\  $$$$$$$ |                            
-$$ |  $$ |$$ |$$  __$$ |           \____$$\ $$   ____|$$ |$$  __$$ |                            
- $$$$$$  |$$ |\$$$$$$$ |$$\       $$$$$$$  |\$$$$$$$\ $$ |\$$$$$$$ |                            
- \______/ \__| \_______|$  |      \_______/  \_______|$$ | \_______|                            
-                        \_/                     $$\   $$ |                                      
-                                                \$$$$$$  |                                      
-                                                 \______/                                       
-$$\                                                 $$\                 $$\                 $$\ 
-$$ |                                                \__|                $$ |                $$ |
-$$$$$$$\   $$$$$$\  $$$$$$\$$$$\         $$\    $$\ $$\ $$$$$$$\   $$$$$$$ | $$$$$$\        $$ |
-$$  __$$\ $$  __$$\ $$  _$$  _$$\ $$$$$$\\$$\  $$  |$$ |$$  __$$\ $$  __$$ |$$  __$$\       $$ |
-$$ |  $$ |$$$$$$$$ |$$ / $$ / $$ |\______|\$$\$$  / $$ |$$ |  $$ |$$ /  $$ |$$ /  $$ |      \__|
-$$ |  $$ |$$   ____|$$ | $$ | $$ |         \$$$  /  $$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |          
-$$$$$$$  |\$$$$$$$\ $$ | $$ | $$ |          \$  /   $$ |$$ |  $$ |\$$$$$$$ |\$$$$$$  |      $$\ 
-\_______/  \_______|\__| \__| \__|           \_/    \__|\__|  \__| \_______| \______/       \__|   
-</pre>
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100% height=50%" />
+<p align="center"
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="80%">
 </p>
 
 <p align="center">
