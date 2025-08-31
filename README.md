@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2022/12/07/08/41/08-41-40-401_512.gif" alt="Neve caindo" width="100%" />
+</p>
 
 <pre align="center">
  $$$$$$\  $$\                                                                                   
