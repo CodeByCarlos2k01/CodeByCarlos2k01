@@ -1,8 +1,10 @@
-<p style="font-size: 30px;" align="center">
-  <h1>👋 𝕺𝖑𝖆́, 𝖘𝖊𝖏𝖆 𝖇𝖊𝖒-𝖛𝖎𝖓𝖉𝖔!</h1>
+<p align="center" style="font-size: 30px;">
+  👋 𝕺𝖑𝖆́, 𝖘𝖊𝖏𝖆 𝖇𝖊𝖒-𝖛𝖎𝖓𝖉𝖔!
 </p>
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="GIF de fundo" height="70%" width="100%">
+<p align="center">
+  <img width="100%" height="70%" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
