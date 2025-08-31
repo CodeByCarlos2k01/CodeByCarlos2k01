@@ -17,8 +17,8 @@
   <img width="41%" height="195px" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByCarlos2k01&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=00000000" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByCarlos2k01&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByCarlos2k01&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByCarlos2k01&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195px/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByCarlos2k01&theme=tokyonight" alt="GitHub Streak" height="195px"/>
   <br>
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByCarlos2k01&bg_color=0b0408&color=9e4c9c&line=4c749e&point=8f2864&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
