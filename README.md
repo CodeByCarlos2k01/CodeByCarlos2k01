@@ -1,5 +1,5 @@
 <!-- Fundo GIF -->
-<img src="https://cdn.pixabay.com/video/2022/11/11/138553-769988105_large.mp4" width="100%" />
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" />
 
 <pre align="center">
  $$$$$$\  $$\                                                                                   
