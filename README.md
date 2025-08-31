@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/12/07/08/41/08-41-40-401_512.gif" alt="Neve caindo" width="100%" />
-</p>
+<!-- Fundo GIF -->
+<img src="https://cdn.pixabay.com/video/2022/11/11/138553-769988105_large.mp4" width="100%" />
 
 <pre align="center">
  $$$$$$\  $$\                                                                                   
