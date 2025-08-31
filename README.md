@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CodeByCarlos2k01">
-    <img src="https://img.shields.io/badge/👋%20Olá,%20seja%20bem--vindo!-purple?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/👋%20Olá,%20seja%20bem--vindo!-purple?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
